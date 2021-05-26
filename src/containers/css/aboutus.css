@@ -1,0 +1,28 @@
+/*
+ #151948 الازرق
+ #FF9B07 الاصفر 
+ #FD4255 الاحمر
+ #4483FE اللبني
+ #8876FF البنفسجي 
+ */
+
+
+.con{
+    box-shadow: 7px 10px #f1432d99;
+
+}
+
+.con:hover {
+    background-color: #f1432d99;
+    box-shadow: 7px 10px #FF9B07;
+    transition:0.3s ease ;
+    cursor: pointer;
+    transform: scale(1.09);
+    transition: .4s ease;
+    z-index: 20;
+
+}
+.con:hover .hwhite {
+    color: white;
+}
+ 

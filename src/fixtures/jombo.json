@@ -1,0 +1,49 @@
+[
+
+  {
+
+    "id": 1,
+
+    "title": "5000 Online Courses",
+
+    "subTitle": "Lorem ipsum dolor sit amet, consecte adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+
+    "image": "/images/learn/make (1).png",
+
+    "alt": "5000 Online Courses"
+
+    
+
+  },
+
+  {
+
+    "id": 2,
+
+    "title": "Highly Expert Instructors",
+
+    "subTitle": "Lorem ipsum dolor sit amet, consecte adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+
+    "image": "/images/learn/make (2).png",
+
+    "alt": "Highly Expert Instructors"
+
+    
+
+  },
+
+  {
+
+    "id": 3,
+
+    "title": "Lifetime Access.",
+
+    "subTitle": "Lorem ipsum dolor sit amet, consecte adipiscing elit, sed do eiusmod tempor incididunt ut labore.",     
+
+    "alt": "Lifetime Access",
+
+    "image": "/images/learn/make (3).png"
+
+  }
+
+]

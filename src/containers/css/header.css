@@ -1,0 +1,15 @@
+.linkcolor{ color: white;
+    padding:  .5rem 1rem;   
+   margin-right: 1rem;  }
+  .linkcolor:hover {
+    color: #ff9b07 ;
+    text-decoration: none;
+  }
+  
+  
+  
+  .navbarbg{
+    z-Index:99;
+    background:rgba(21,25,71,0.8) }
+
+    .logo{width: 130px;}

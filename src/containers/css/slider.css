@@ -1,0 +1,23 @@
+.firstCarousel::after{content: '';
+    display: block;   
+background:linear-gradient(to bottom ,rgba(21,25,71,0.7),rgba(0,0,0,0));
+height: 100vh;
+position: absolute;
+z-index: 33;
+width: 100%;
+}
+.firstCarousel{height: 100vh;
+display: flex;
+position: relative;  
+}             
+
+.sliderimg{ height: 100vh;}    
+
+.title-h1{font-weight: bold;
+font-size: 100px;
+color: white;}
+
+@media  (min-width: 300px) and (max-width: 760px)  {
+
+.title-h1{font-size: 60px;} 
+}

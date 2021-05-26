@@ -1,0 +1,37 @@
+
+    .h2{
+        color:#FF9B07 !important;
+        font-weight: 900;
+    }
+    .con2{
+        border-radius: 5%;    
+        padding: 25px;
+        box-shadow: 7px 10px #f1432d99;
+        transition:0.3s ease ;
+        border: 1px solid #f1432d99;
+        }
+    
+    .con2:hover {
+        background-color: #f1432d99;
+        border:none;
+        box-shadow: 7px 10px #FF9B07;
+        transition:0.3s ease ;
+        cursor: pointer;
+        transform: scale(1.09);
+        transition: .4s ease;
+        z-index: 20;
+    
+    }
+    .con2:hover .hwhite2 {
+        color: white;
+    }
+    .con2:hover .hwhite3 {
+        color: rgb(235, 220, 220);
+    }
+    .con2:hover .h3 {
+        color: rgb(235, 220, 220);
+    }
+    .h3 {
+        color: #f1432d99;
+    }
+    
